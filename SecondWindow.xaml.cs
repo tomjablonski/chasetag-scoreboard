@@ -11,9 +11,9 @@ using System.Windows.Shapes;
 
 namespace chasetag_scoreboard
 {
-    public partial class MainWindow : Window
+    public partial class SecondWindow : Window
     {
-        public MainWindow()
+        public SecondWindow()
         {
             InitializeComponent();
         }
